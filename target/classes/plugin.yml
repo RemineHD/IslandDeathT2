@@ -1,0 +1,15 @@
+name: IslandDeath
+version: T2
+main: gq.islanddeath.Main
+api-version: 1.13
+authors: [RemineHD, Penayer]
+description: Pugin de IslandDeath T2
+website: islanddeath.gq
+commands:
+  islanddeath:
+    description: Info plugin
+    aliases: [is, help, ayuda]
+  base:
+    description: Ir a la base.
+  guardarbase:
+    description: Guardar la base.
